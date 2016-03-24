@@ -1,0 +1,5 @@
+keys.py
+gifs/
+.DS_Store
+__pycache__/
+*.pyc
